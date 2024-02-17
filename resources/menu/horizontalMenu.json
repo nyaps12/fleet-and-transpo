@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "dashboard",
+      "icon": "menu-icon tf-icons ti ti-dashboard",
+      "name": "Dashboard",
+      "slug": "pages-dashboard"
+    },
+    {
+      "url": "monitoringvehicles",
+      "icon": "menu-icon ti ti-gps",
+      "name": "Monitoring Vehicles",
+      "slug": "pages-monitoring-vehicle"
+    },
+    {
+      "url": "deliveryscheduling",
+      "icon": "menu-icon tf-icons ti ti-calendar",
+      "name": "Delivery Scheduling",
+      "slug": "pages-delivery-scheduling"
+    },
+    {
+      "url": "vehiclesinformation",
+      "icon": "menu-icon tf-icons ti ti-truck",
+      "name": "Vehicles Information",
+      "slug": "pages-vehicles-information"
+    },
+    {
+      "url": "reporting-and-analytics",
+      "icon": "menu-icon ti ti-report-analytics",
+      "name": "Reporting and Analytics",
+      "slug": "pages-reporting-and-analytics"
+    },
+    {
+      "url": "vehicle-reservation",
+      "icon": "menu-icon tf-icons ti ti-book",
+      "name": "Vehicle Reservation",
+      "slug": "pages-vehicle-reservation"
+    },
+    {
+      "url": "vehicle-availability",
+      "icon": "menu-icon ti ti-clipboard-check",
+      "name": "Vehicle Availability",
+      "slug": "pages-vehicle-availability"
+    },
+    {
+      "url": "driver-information",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "name": "Driver Information",
+      "slug": "pages-driver-information"
+    },
+    {
+      "url": "delivery-report",
+      "icon": "menu-icon ti ti-report-money",
+      "name": "Delivery Report",
+      "slug": "pages-delivery-report"
+    },
+    {
+      "url": "qr-code",
+      "icon": "menu-icon ti ti-qrcode",
+      "name": "QR Code",
+      "slug": "pages-qr-code"
+    }
+  ]
+}
